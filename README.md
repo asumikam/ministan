@@ -9,7 +9,7 @@ composer install
 ## 実行
 
 ```bash
-php bin/ministan.php Sample1.php
+php bin/ministan.php samples/Sample1.php
 ```
 
 ```
